@@ -22,7 +22,7 @@ E-Commerce de bebidas Alcohólicas realizado mediante la metodología Scrum en g
   </br>
     </br>
       </br>
-![Bar de Toni](https://user-images.githubusercontent.com/88751880/174877827-c93f1996-e908-4217-a637-719c7c73be5a.JPG)
+
 
 
 ##  Las tecnologías utilizadas fueron las siguientes:
