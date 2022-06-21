@@ -6,4 +6,4 @@
 ### Back-end : NodeJS, Express, Sequelize, Firebase, Mercadopago, axios.
 ### Front-end: ReactJS, Redux, Firebase, EmailJS, Bootstrap, Sweetalert.
 
-###Puede ver el proyecto funcionando desde aquí: https://elbardetonibebidas.vercel.app/
+### Puede ver el proyecto funcionando desde aquí: https://elbardetonibebidas.vercel.app/
